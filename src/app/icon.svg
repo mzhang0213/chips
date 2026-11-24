@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- red and cream edge stripes: 16 segments of 22.5deg, starting at the top like the pot chip -->
+  <circle cx="32" cy="32" r="31" fill="#F2EAD8"/>
+  <circle cx="32" cy="32" r="15.5" fill="none" stroke="#B3312B" stroke-width="31"
+    stroke-dasharray="6.087 6.087" transform="rotate(-90 32 32)"/>
+  <circle cx="32" cy="32" r="31" fill="none" stroke="rgba(0,0,0,.14)" stroke-width="2"/>
+  <circle cx="32" cy="32" r="25" fill="none" stroke="rgba(0,0,0,.18)" stroke-width=".8"/>
+  <!-- inner face with the dashed red ring -->
+  <circle cx="32" cy="32" r="22" fill="#F7F2E6"/>
+  <circle cx="32" cy="32" r="21" fill="none" stroke="#B3312B" stroke-width="2" stroke-dasharray="3 2.2"/>
+</svg>
